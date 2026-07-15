@@ -8,3 +8,5 @@ conocimientos solidos que me permitiran desenvolverme de una manera eficaz.
 
 Quiero seguir aprendiendo sobre las tecnologias que se ocupan para ser 
 un fronend tomando el curos de HTML, CSS y actualmente GIT y GITHUB.
+
+Se habla un poco de su vida.
