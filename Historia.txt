@@ -5,3 +5,6 @@ Mi meta es ser un excelente developer full stack.
 
 Quiero obtener un empleo y demostrar me a mi mismo que es puedo adquir
 conocimientos solidos que me permitiran desenvolverme de una manera eficaz.
+
+Quiero seguir aprendiendo sobre las tecnologias que se ocupan para ser 
+un fronend tomando el curos de HTML, CSS y actualmente GIT y GITHUB.
