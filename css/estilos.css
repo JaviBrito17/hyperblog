@@ -35,3 +35,7 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer{
+    border: 2px solid #333 ;
+}
