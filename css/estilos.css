@@ -41,5 +41,7 @@ body{
     padding: 6px;
     font-size: 0.99rem;
     margin: 0 auto;
-    width: 70.59%;
+    width: 71.35%;
+    background: linear-gradient(to right, #333, #33A);
+    color: white;
 }
