@@ -10,3 +10,7 @@ Quiero seguir aprendiendo sobre las tecnologias que se ocupan para ser
 un fronend tomando el curos de HTML, CSS y actualmente GIT y GITHUB.
 
 Se habla un poco de su vida.
+
+Hola soy tu pero en otra maquina. lol. 
+Generando un ejemplo para Fork y PullRequest, haciendo modificaciones
+ a los archivos y seguir aprendiendo.
