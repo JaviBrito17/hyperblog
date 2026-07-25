@@ -48,3 +48,11 @@ body{
     background: linear-gradient(to right, #333, #33A);
     color: white;
 }
+
+#PictureContent{
+    text-align: center;
+}
+
+#picture{
+    text-align: center;
+}
